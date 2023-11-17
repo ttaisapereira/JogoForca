@@ -1,0 +1,4 @@
+animais = ['GATO', 'CACHORRO', 'COBRA', 'PEIXE', 'PAPAGAIO']
+estados = ['PERNAMBUCO', 'ALAGOAS', 'TOCANTINS', 'BAHIA', 'CEARA']
+comidas = ['FEIJOADA', 'LASANHA', 'SUSHI', 'SALADA', 'ESCONDIDINHO']
+roupas = ['CALÇA', 'BERMUDA', 'SAIA', 'VESTIDO', 'PALETÓ']
